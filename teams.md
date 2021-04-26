@@ -1,10 +1,10 @@
 Hello there!
 Today I'll be showing you a simple way to make teams in the Pawn scripting language.
 
-First we start by making the Player Team Variable:
+First we start by making the Player Team Variable
 new PlayerTeam[MAX_PLAYERS];
 
-Now we make the teams with Marcos:
+Now we make the teams with Marcos
 #define civilians 1
 #define admins 2
 
